@@ -56,16 +56,16 @@ button {
     text-align: center;
 }
 
-#bot-corners {
+.bot-corners {
     border-radius: 0px 0px 15px 15px;
     margin-bottom: 30px;
 }
 
-#all-corners {
+.all-corners {
     border-radius: 15px;
     margin-bottom: 30px;
 }
 
-#top-corners {
+.top-corners {
     border-radius: 15px 15px 0px 0px;
 }
